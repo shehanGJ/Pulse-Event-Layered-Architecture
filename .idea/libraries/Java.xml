@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Java">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/mysql-connector-java-8.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/jfoenix-9.0.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/mailapi-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Project/EMS/Java/smtp-1.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
